@@ -12,7 +12,11 @@ function Navbar() {
                 <BootstrapNavbar.Collapse id="basic-navbar-nav">
                     <Nav className="me-auto">
                         <Nav.Link href="/">Home</Nav.Link>
+                        <Nav.Link href="/como-funciona">Como funciona</Nav.Link>
+                        <Nav.Link href="/funcionalidades">Funcionalidades</Nav.Link>
                         <Nav.Link href="/sobre-o-projeto">Sobre o Projeto</Nav.Link>
+                        <Nav.Link href="/contato">Contato</Nav.Link>
+
                     </Nav>
                 </BootstrapNavbar.Collapse>
             </Container>
