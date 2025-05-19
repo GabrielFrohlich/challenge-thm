@@ -5,3 +5,8 @@
 $primary: #ff8936;
 
 @import "bootstrap/scss/bootstrap";
+
+// custom purple background utility
+.bg-purple {
+  background-color: #6f42c1 !important;
+}

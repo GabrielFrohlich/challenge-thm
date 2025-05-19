@@ -7,7 +7,7 @@ function Navbar() {
     return (
         <BootstrapNavbar expand="lg" className="bg-body-tertiary">
             <Container>
-                <BootstrapNavbar.Brand href="/">React-Bootstrap</BootstrapNavbar.Brand>
+                <BootstrapNavbar.Brand href="/">DisasterInformer</BootstrapNavbar.Brand>
                 <BootstrapNavbar.Toggle aria-controls="basic-navbar-nav" />
                 <BootstrapNavbar.Collapse id="basic-navbar-nav">
                     <Nav className="me-auto">
