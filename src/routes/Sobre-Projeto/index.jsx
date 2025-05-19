@@ -11,9 +11,9 @@ function SobreProjeto() {
             funcao: 'Desenvolvedor'
         },
         {
-            nome: 'Lucas Silva',
-            imagem: '/imgs/joao-gabriel-frohlich.jpg',
-            funcao: 'Desenvolvedor Frontend'
+            nome: 'Gabriel Liondas',
+            imagem: '/imgs/gabriel-liondas.png',
+            funcao: 'Desenvolvedor'
         },
         {
             nome: 'Eduardo Menezes',
