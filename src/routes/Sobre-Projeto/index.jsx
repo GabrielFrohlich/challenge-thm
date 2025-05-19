@@ -6,17 +6,17 @@ function SobreProjeto() {
             funcao: 'Scrum Master'
         },
         {
-            nome: 'Eduarda Zorzi',
+            nome: 'Lucas de Souza',
             imagem: '/imgs/joao-gabriel-frohlich.jpg',
-            funcao: 'Desenvolvedora'
+            funcao: 'Desenvolvedor'
         },
         {
-            nome: 'Gabriel Liondas',
+            nome: 'Lucas Silva',
             imagem: '/imgs/joao-gabriel-frohlich.jpg',
             funcao: 'Desenvolvedor Frontend'
         },
         {
-            nome: 'René Gabriel',
+            nome: 'Eduardo Menezes',
             imagem: '/imgs/joao-gabriel-frohlich.jpg',
             funcao: 'Desenvolvedor Backend'
         }
