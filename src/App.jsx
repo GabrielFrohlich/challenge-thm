@@ -5,11 +5,11 @@ import Footer from "./components/footer"
 
 function App() {
   return (
-    <>
+    <div class="min-vh-100">
       <Navbar />
       <Outlet />
       <Footer />
-    </>
+    </div>
   )
 }
 

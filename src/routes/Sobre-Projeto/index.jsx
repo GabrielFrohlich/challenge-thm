@@ -6,8 +6,8 @@ function SobreProjeto() {
             funcao: 'Scrum Master'
         },
         {
-            nome: 'Lucas de Souza',
-            imagem: '/imgs/joao-gabriel-frohlich.jpg',
+            nome: 'René Gabriel Portela Duarte',
+            imagem: '/imgs/rene-gabriel.jpg',
             funcao: 'Desenvolvedor'
         },
         {

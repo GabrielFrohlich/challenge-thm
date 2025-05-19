@@ -7,6 +7,9 @@ import App from './App.jsx'
 import Home from './routes/Home/home.jsx'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import SobreProjeto from './routes/Sobre-Projeto/index.jsx'
+import ComoFunciona from './routes/ComoFunciona/index.jsx'
+import Contato from './routes/Contato/index.jsx'
+import Funcionalidades from './routes/Funcionalidades/index.jsx'
 
 const router = createBrowserRouter([
   {
@@ -15,7 +18,17 @@ const router = createBrowserRouter([
     children: [
       {
         path: '/', element: <Home />
-      }, {
+      },
+      {
+        path: 'como-funciona', element: <ComoFunciona />
+      },
+      {
+        path: 'functionalidades', element: <Funcionalidades />
+      },
+      {
+        path: 'contato', element: <Contato />
+      },
+      {
         path: 'sobre-o-projeto', element: <SobreProjeto />
       }
 
