@@ -17,11 +17,11 @@ function Contato() {
                     </div>
                     <div class="mb-3">
                         <label for="email" class="form-label">Email:</label>
-                        <input type="email" class="form-control" id="email" placeholder="João da Silva" name="email" />
+                        <input type="email" class="form-control" id="email" placeholder="email@example.com" name="email" />
                     </div>
                     <div class="mb-3">
                         <label for="phone" class="form-label">Telefone:</label>
-                        <input type="tel" class="form-control" id="phone" placeholder="João da Silva" name="phone" />
+                        <input type="tel" class="form-control" id="phone" placeholder="11999999999" name="phone" />
                     </div>
                     <div class="mb-3">
                         <label for="mensagem" class="form-label">Mensagem:</label>

@@ -1,6 +1,6 @@
 function Footer() {
     return (
-        <footer className="bg-purple text-white p-4">
+        <footer className="bg-purple text-white p-4 sticky-bottom" style={{ marginTop: 'auto' }}>
             <div class="container">
                 <div class="row">
                     <div class="col-md-4 col-12">
