@@ -16,9 +16,9 @@ function SobreProjeto() {
             funcao: 'Desenvolvedor'
         },
         {
-            nome: 'Eduardo Menezes',
-            imagem: '/imgs/joao-gabriel-frohlich.jpg',
-            funcao: 'Desenvolvedor Backend'
+            nome: 'Eduarda Zorzi Rigo',
+            imagem: '/imgs/eduarda-zorzi-rigo.png',
+            funcao: 'Desenvolvedora'
         }
     ]
 
