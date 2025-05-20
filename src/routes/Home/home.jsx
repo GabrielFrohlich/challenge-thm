@@ -14,7 +14,7 @@ function Home() {
 
       <section className="text-section">
         <div className="text-content">
-          <img className="text-image left" src="../../../public/imgs/rain.jpg" />
+          <img className="text-image left" src="/imgs/rain.jpg" />
           <div className="text-info">
             <h2>Por que monitorar riscos naturais?</h2>
             <p>Com mudanças climáticas cada vez mais intensas, é essencial estar preparado e informado sobre os riscos naturais ao seu redor.</p>
@@ -54,7 +54,7 @@ function Home() {
             <h2>Como funciona o aplicativo?</h2>
             <p>Nosso sistema utiliza dados de estações meteorológicas e sensores locais para gerar alertas confiáveis e em tempo real para você.</p>
           </div>
-          <img className="text-image right" src="../../../public/imgs/cellphone.jpg" />
+          <img className="text-image right" src="/imgs/cellphone.jpg" />
         </div>
       </section>
 
